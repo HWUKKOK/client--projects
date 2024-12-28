@@ -1,0 +1,16 @@
+
+1. Do we need to maintain/audit 3E.com?
+
+2. We will come out technical audit
+
+3. We will takes up their maintenance tasks
+
+4. Need to find out Hounder code deployment workflow
+
+5. Need to find out content deployment workflow
+
+6. Who will taking web speed performance audit?
+
+7. Check the actual FTE for web dev
+
+8. 
